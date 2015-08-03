@@ -1,8 +1,8 @@
 {
   "name": "@nib-components/mmyy-input-mask",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
-    "@nib-components/masked-input": "^1.0.1"
+    "@nib-components/masked-input": "^1.0.2"
   },
   "browser": {
     "masked-input": "@nib-components/masked-input"
